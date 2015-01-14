@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="SkpWebSite.MainPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>SKP IT & DATA</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+    <link href="signin.css" rel="stylesheet"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <nav class="navbar navbar-inverse" >
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">SKP IT & DATA</a>
+                </div>
+                <div>
+                    <ul class="nav navbar-nav">
+                        <li><a href="MainPage.aspx"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                        <li><a href="portal.aspx"><span class="glyphicon glyphicon-globe"></span> Portal</a></li>
+                        <li><a href="SkpKrav.aspx"><span class="glyphicon glyphicon-briefcase"></span> SKP Krav</a></li> 
+                        <li><a href="#"><span class="glyphicon glyphicon-book"></span> Hvad vi laver</a></li>
+                        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Elever</a></li>
+                        <li><a href="#"><span class="glyphicon glyphicon-picture"></span> Galleri</a></li>
+                    </ul>
+                </div>
+
+            </div>
+    </nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

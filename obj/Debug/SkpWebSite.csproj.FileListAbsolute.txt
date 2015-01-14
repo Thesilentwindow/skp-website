@@ -1,0 +1,6 @@
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\bin\SkpWebSite.dll.config
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\bin\SkpWebSite.dll
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\bin\SkpWebSite.pdb
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\obj\Debug\SkpWebSite.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\obj\Debug\SkpWebSite.dll
+c:\users\andreas\documents\visual studio 2013\Projects\SkpWebSite\SkpWebSite\obj\Debug\SkpWebSite.pdb
